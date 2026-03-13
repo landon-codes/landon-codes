@@ -1,8 +1,6 @@
 **About me 👋**
 
-I am a self taught developer who codes to make useful programs, or at the very least make something I can come back to.
-
-I often use C# and Python for each of their strengths. However, I always try to use the most productive tools for whatever I may be working on.
+I am a self taught developer who codes to make useful programs, or at the very least make something I can come back to. I often use C# and Python for each of their strengths. However, I always try to use the most productive tools for whatever I may be working on.
 
 **Projects 📝**
 
@@ -13,7 +11,7 @@ Supreme Pancake is a storage cataloger built with C# that allows you to view the
 
 JsonStorage is a C# library for working with json files in .NET projects.
 
-**What I need helf with**
+**What I need help with**
 
 I greatly appreciate constructive criticism and any help or reccomendations with any of my projects (including this readme).
 I often put issues on my repositories for anything that needs done, or for problems that have been stumping me.
