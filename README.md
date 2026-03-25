@@ -2,14 +2,11 @@
 
 I am a self taught developer who codes to make useful programs, or at the very least make something I can come back to. I often use C# and Python for each of their strengths. However, I always try to use the most productive tools for whatever I may be working on.
 
-**Projects 📝**
+**Recent/Notable Projects 📝**
 
-I have recently been learning more programming languages to build more skills and open more doors for myself.
-I currently have two public projects: [supreme-pancake](https://github.com/landon-codes/supreme-pancake) and [JsonStorage](https://github.com/landon-codes/JsonStorage).
+Current notable projects include [JsonStorage](https://github.com/landon-codes/jsonstorage), an API for working with JSON files in your .NET/C# projects, and [Supereme Pancake](https://github.com/landon-codes/supreme-pancake),a storage cataloger for Mac and Windows.
 
-Supreme Pancake is a storage cataloger built with C# that allows you to view the amount of storage different directories or files are taking. It also creates a total!
-
-JsonStorage is a C# library for working with json files in .NET projects.
+**Active Projects ⚡️**
 
 **What I need help with**
 
