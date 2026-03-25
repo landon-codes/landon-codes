@@ -8,6 +8,8 @@ Current notable projects include [JsonStorage](https://github.com/landon-codes/j
 
 **Active Projects ⚡️**
 
+The current active project I am working on is called [MemCards](https://github.com/landon-codes/memcards), a flashcard app made with the goal of providing, high quality, feature rich study tools without ads or subscriptions.
+
 **What I need help with**
 
 I greatly appreciate constructive criticism and any help or reccomendations with any of my projects (including this readme).
