@@ -4,7 +4,7 @@ I am a self taught developer who codes to make useful programs, or at the very l
 
 **Recent/Notable Projects 📝**
 
-Current notable projects include [JsonStorage](https://github.com/landon-codes/jsonstorage), an API for working with JSON files in your .NET/C# projects, and [Supereme Pancake](https://github.com/landon-codes/supreme-pancake),a storage cataloger for Mac and Windows.
+Current notable projects include [JsonStorage](https://github.com/landon-codes/jsonstorage), an API for working with JSON files in your .NET/C# projects, and [Supereme Pancake](https://github.com/landon-codes/supreme-pancake), a storage cataloger for Mac and Windows.
 
 **Active Projects ⚡️**
 
@@ -12,7 +12,7 @@ The current active project I am working on is called [MemCards](https://github.c
 
 **What I need help with**
 
-I greatly appreciate constructive criticism and any help or reccomendations with any of my projects (including this readme).
+I greatly appreciate constructive criticism and any help or reccomendations with any of my projects.
 I often put issues on my repositories for anything that needs done, or for problems that have been stumping me.
 
 **Fun facts ✨**
