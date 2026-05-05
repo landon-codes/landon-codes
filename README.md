@@ -10,6 +10,8 @@ Current notable projects include [JsonStorage](https://github.com/landon-codes/j
 
 The current active project I am working on is called [MemCards](https://github.com/landon-codes/memcards), a flashcard app made with the goal of providing, high quality, feature rich study tools without ads or subscriptions.
 
+In my freetime, I am working on a programming language for Japanese speakers, [J-Lang](https://github.com/landon-codes/j-lang). This project will not see quick development, but it uses Japanese keywords and characters. It is designed to be typed naturally using a Japanese IME.
+
 **What I need help with**
 
 I greatly appreciate constructive criticism and any help or reccomendations with any of my projects.
