@@ -6,11 +6,13 @@ I am a self taught developer who codes to make useful programs, or at the very l
 
 Current notable projects include [JsonStorage](https://github.com/landon-codes/jsonstorage), an API for working with JSON files in your .NET/C# projects, and [Supereme Pancake](https://github.com/landon-codes/supreme-pancake), a storage cataloger for Mac and Windows.
 
+I am working on a flashcard app called [MemCards](https://github.com/landon-codes/MemCards), though its development is paused due to a shift in focus. 
+
 **Active Projects ⚡️**
 
-The current active project I am working on is called [MemCards](https://github.com/landon-codes/memcards), a flashcard app made with the goal of providing, high quality, feature rich study tools without ads or subscriptions.
+I currently do not have any active **and** public projects right now, though I am willing to share that I am starting game dev, which is what has taken the focus away from MemCards.
 
-In my freetime, I am working on a programming language for Japanese speakers, [J-Lang](https://github.com/landon-codes/j-lang). This project will not see quick development, but it uses Japanese keywords and characters. It is designed to be typed naturally using a Japanese IME.
+JLang has also been made private because I am wanting to try different things with it. Once the project is at a usable state, it will become public again.
 
 **What I need help with**
 
@@ -21,6 +23,7 @@ I often put issues on my repositories for anything that needs done, or for probl
 
 * I study and speak Japanese at a conversant level.
 * I also study Hebrew, though, it is not as strong.
+* My bad habit is wanting to learn every programming language under the sun. 
 
 **How to contact me 📞**
 
