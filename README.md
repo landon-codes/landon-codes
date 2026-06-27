@@ -4,15 +4,11 @@ I am a self taught developer who codes to make useful programs, or at the very l
 
 **Recent/Notable Projects 📝**
 
-Current notable projects include [JsonStorage](https://github.com/landon-codes/jsonstorage), an API for working with JSON files in your .NET/C# projects, and [Supereme Pancake](https://github.com/landon-codes/supreme-pancake), a storage cataloger for Mac and Windows.
-
-I am working on a flashcard app called [MemCards](https://github.com/landon-codes/MemCards), though its development is paused due to a shift in focus. 
+Current notable projects include [JsonStorage](https://github.com/landon-codes/jsonstorage), an API for working with JSON files in your .NET/C# projects, and [Supereme Pancake](https://github.com/landon-codes/supreme-pancake), a storage cataloger for Mac and Windows. 
 
 **Active Projects ⚡️**
 
-I currently do not have any active **and** public projects right now, though I am willing to share that I am starting game dev, which is what has taken the focus away from MemCards.
-
-JLang has also been made private because I am wanting to try different things with it. Once the project is at a usable state, it will become public again.
+I am working on a game engine called [Baobâb](https://github.com/BaobabEngine/Baobab]. It a code-first engine built to provide users the control of a framework while giving them the features of a game engine.
 
 **What I need help with**
 
