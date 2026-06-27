@@ -8,7 +8,7 @@ Current notable projects include [JsonStorage](https://github.com/landon-codes/j
 
 **Active Projects ⚡️**
 
-I am working on a game engine called [Baobâb](https://github.com/BaobabEngine/Baobab]. It a code-first engine built to provide users the control of a framework while giving them the features of a game engine.
+I am working on a game engine called [Baobâb](https://github.com/BaobabEngine/Baobab). It a code-first engine built to provide users the control of a framework while giving them the features of a game engine.
 
 **What I need help with**
 
